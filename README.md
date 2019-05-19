@@ -1,3 +1,3 @@
-# E-commerce-website
+# E-commerce-application
 
 Desktop application for E-commerce using Javafx and Sqlite database as group project for Database Management Systems course.
